@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👨🏽‍💻 Caio Guerreiro
 
 **`Desenvolvedor FullStack`**
